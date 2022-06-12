@@ -1,1 +1,1 @@
-# horiseonsocialsolutions
+# horiseon social solutions
